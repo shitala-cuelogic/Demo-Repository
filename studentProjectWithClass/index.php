@@ -3,7 +3,7 @@
 //session_unset();
 //die;
 require("pageClass.php");
-
+ echo 'I am going to merge branch';
 $objPageClass = new PageClass();
 //Include header
 echo $objPageClass->header();
