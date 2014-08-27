@@ -17,5 +17,11 @@ $objPageClass->content();
 //Include Footer
 echo $objPageClass->footer();
 
+
  echo 'hellothis is modified by avadhut';
+
+
+
+
+
 ?>
