@@ -15,4 +15,5 @@ $objPageClass->content();
 
 //Include Footer
 echo $objPageClass->footer();
+
 ?>
