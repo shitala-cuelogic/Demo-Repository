@@ -1,0 +1,48 @@
+.field_name{
+			float:left;
+			width: 125px; 
+}
+.floatleft{
+
+			float: left;
+}
+#detail{
+		margin-left: 200px;
+		margin-bottom: 20px;
+		margin-right: 20px;
+		margin-top: 100px;
+		border: ridge;
+		float: left;
+}
+body {
+		    				background-image: url('./demo/images.jpeg');
+		    				background-repeat: no-repeat;
+		    				background-size: 100% 100%;
+		    				min-height: 640px;
+						}
+				li{
+							list-style-type: none;
+					}			
+
+	.menu{
+	 	
+		color :white;
+		text-decoration: none;
+		background-color: purple;
+		padding: 0.2px 0.6em;
+	}
+	.menualign{
+		display: inline;
+		line-height: 30px;
+		padding-left: 10px;	
+
+	}
+#viewProfile{
+	margin-left: 20px;
+				margin-bottom: 20px;
+				margin-right: 20px;
+				margin-top: 20px;
+				
+				
+				float: left;
+}
